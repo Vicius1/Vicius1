@@ -45,15 +45,15 @@ Estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
     width="48%"
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=Vicius1&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img  
       alt="GitHub Stats" 
-      height="200"
-      width="48%"
+      width="50%"
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicius1&theme=dark&layout=compact&langs_count=9"
   />
 </p>
