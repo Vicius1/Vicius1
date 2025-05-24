@@ -63,3 +63,4 @@ Estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), 
 - ✉️ www.vinicius.oliveira@gmail.com
 
 ![Snake animation](https://github.com/Vicius1/Vicius1/blob/output/github-contribution-grid-snake.svg)
+
