@@ -68,7 +68,7 @@ Estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vicius1/Vicius1/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vicius1/Vicius1/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vicius1/Vicius1/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Vicius1/Vicius1/blob/output/github-snake.svg" />
 </picture>
 
