@@ -52,7 +52,7 @@ Estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), 
 
 <img  
       alt="GitHub Stats" 
-      width="50%"
+      width="48%"
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicius1&theme=dark&layout=compact&langs_count=9"
   />
