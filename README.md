@@ -1,7 +1,12 @@
 ## Olá! Eu sou o Vinícius 👋
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/y13H9YYUHMoAAAAC/back-to-the-future-thinking.gif" width="400"/>
+</p>
+
 **`Desenvolvedor FullStack`**
 
-Estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), apaixonado por tecnologia com interesse em desenvolvimento de software, análise de dados e automação 
+Sou estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), com interesse em desenvolvimento de software, automação e análise de dados. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
 
 ---
 
