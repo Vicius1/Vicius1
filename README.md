@@ -6,7 +6,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), com interesse em desenvolvimento de software, automação e análise de dados. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
+Sou estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), com interesse em desenvolvimento de software, automação, análise de dados e cibersegurança. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
 
 ---
 
